@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ecf1</objectGroupId>
+	<objectId>ecf13cd5-ea1a-1c38-9c00-f4061005a579</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>page_in_folder_to_copy</folder-name>
+	<internal-name>page in folder to copy</internal-name>
+	<title_t>page in folder to copy</title_t>
+	<disabled>false</disabled>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;page in folder to copy&lt;/p&gt;</body_html>
+	<createdDate>2021-12-29T22:30:10.648Z</createdDate>
+	<createdDate_dt>2021-12-29T22:30:10.648Z</createdDate_dt>
+	<lastModifiedDate>2021-12-29T22:30:10.648Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-12-29T22:30:10.648Z</lastModifiedDate_dt>
+</page>
